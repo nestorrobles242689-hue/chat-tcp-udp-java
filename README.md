@@ -46,19 +46,19 @@ Se te pedirá ingresar nombre de usuario.
     Funcionalidad extra: Uso de Emojis
 
 # 📸 Capturas de pantalla
-Servidor activo
+# Servidor activo
 <img width="1883" height="1118" alt="imagen" src="https://github.com/user-attachments/assets/20d82328-7c03-472c-b38e-f43743a2e0f5" />
 
-Registro de usuario
+# Registro de usuario
 <img width="1913" height="1123" alt="imagen" src="https://github.com/user-attachments/assets/5c358a96-6509-40c6-baab-8a148b77e60a" />
 <img width="1902" height="1116" alt="imagen" src="https://github.com/user-attachments/assets/edd0d287-df9c-499b-8c5b-d07e76b988ed" />
 
 
-Chat grupal
+# Chat grupal
 <img width="1919" height="1125" alt="imagen" src="https://github.com/user-attachments/assets/7d6a0317-925a-4f85-90f9-b38c933efc0f" />
 
 
-Mensaje privado
+# Mensaje privado
 <img width="1913" height="1116" alt="imagen" src="https://github.com/user-attachments/assets/00c01e4d-ddbe-4f06-99cc-eb08969767b4" />
 <img width="1916" height="1125" alt="imagen" src="https://github.com/user-attachments/assets/f00a113a-2694-400a-b11b-7734a7ddfe22" />
 
