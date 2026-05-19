@@ -82,12 +82,12 @@ Los mensajes siguen el formato:
 
 TIPO|ORIGEN|DESTINO|CONTENIDO
 
-Tipo 	Descripción
-MSG 	Mensaje grupal
-PRIV 	Mensaje privado
-REG 	Registro de nuevo usuario
-BYE 	Desconexión de usuario
-LIST 	Solicitud de lista de usuarios
+\n Tipo 	Descripción
+\n MSG 	Mensaje grupal
+\n PRIV 	Mensaje privado
+\n REG 	Registro de nuevo usuario
+\n BYE 	Desconexión de usuario
+\n LIST 	Solicitud de lista de usuarios
 
 # 📄 Licencia
 Proyecto académico — ITSON · Redes · 2026
