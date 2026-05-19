@@ -42,7 +42,7 @@ Se te pedirá ingresar nombre de usuario.
     Mensajes grupales visibles para todos los conectados
     Mensajes privados entre usuarios (/priv <usuario> <mensaje>)
     Lista de usuarios conectados (/users, /listar)
-    Desconexión controlada (/salir)
+    Desconexión controlada (/Exit)
     Funcionalidad extra: Uso de Emojis
 
 # 📸 Capturas de pantalla
