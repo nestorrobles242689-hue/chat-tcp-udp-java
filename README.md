@@ -16,19 +16,8 @@ Nombre: Néstor David Robles Ortiz 	Matrícula: 00000242689
     Maven / Apache NetBeans
 
 # 📁 Estructura del proyecto
-chat-tcp-udp-java/
-├── src/
-│   ├── servidor/
-│   │   ├── ServidorTCP.java        # Lógica del servidor TCP
-│   ├── cliente/
-│   │   ├── ClienteTCP.java         # Lógica del cliente TCP
-├── screenshots/
-│   ├── servidor_activo.png
-│   ├── registro_usuario.png
-│   ├── chat_grupal.png
-│   └── mensaje_privado.png
-├── .gitignore
-└── README.md
+<img width="545" height="325" alt="imagen" src="https://github.com/user-attachments/assets/7b41fac8-3b7a-4962-ba39-4404572063e0" />
+
 
 # 🚀 Cómo ejecutar
 Requisitos previos
@@ -76,12 +65,8 @@ Mensaje privado
 
 
 # 🌐 Protocolo de comunicación
-Tipo 	Descripción
-MSG 	Mensaje grupal
-PRIV 	Mensaje privado
-REG 	Registro de nuevo usuario
-EXIT 	Desconexión de usuario
-LIST, USERS 	Solicitud de lista de usuarios
+<img width="406" height="150" alt="imagen" src="https://github.com/user-attachments/assets/929137bd-9e21-4049-907c-6378858064f9" />
+
 
 # 📄 Licencia
 Proyecto académico — ITSON · Redes · 2026
