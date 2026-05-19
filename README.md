@@ -45,7 +45,6 @@ El servidor escuchará en el puerto 1060 (TCP) y 1060 (UDP) por defecto.
 
 # Conectar un cliente
 java -cp bin client.TCPClient
-
 Se te pedirá ingresar nombre de usuario.
 
 # ⚙️ Funcionalidades
@@ -77,17 +76,12 @@ Mensaje privado
 
 
 # 🌐 Protocolo de comunicación
-
-Los mensajes siguen el formato:
-
-TIPO|ORIGEN|DESTINO|CONTENIDO
-
-\n Tipo 	Descripción
-\n MSG 	Mensaje grupal
-\n PRIV 	Mensaje privado
-\n REG 	Registro de nuevo usuario
-\n BYE 	Desconexión de usuario
-\n LIST 	Solicitud de lista de usuarios
+Tipo 	Descripción
+MSG 	Mensaje grupal
+PRIV 	Mensaje privado
+REG 	Registro de nuevo usuario
+EXIT 	Desconexión de usuario
+LIST, USERS 	Solicitud de lista de usuarios
 
 # 📄 Licencia
 Proyecto académico — ITSON · Redes · 2026
