@@ -15,6 +15,13 @@ Nombre: Néstor David Robles Ortiz 	Matrícula: 00000242689
     Multihilos (Thread / Runnable) — manejo concurrente de clientes
     Maven / Apache NetBeans
 
+# Funcionalidad Extra:
+Uso de emojis por medio de cambiar cierto orden de carácteres por dichos emojis. Ejemplo: 
+private static String convertirEmojis(String mensaje) {
+        // Reemplazar atajos comunes por emojis Unicode
+        mensaje = mensaje.replace(":)", "😊");
+
+
 # 📁 Estructura del proyecto
 <img width="545" height="325" alt="imagen" src="https://github.com/user-attachments/assets/7b41fac8-3b7a-4962-ba39-4404572063e0" />
 
